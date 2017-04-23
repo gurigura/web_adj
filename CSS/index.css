@@ -1,0 +1,32 @@
+.main{
+  background-color: #bdf7f1;
+  height:600px;
+}
+.header{
+  background-color: #ceccf3;
+  height:70px;
+  padding : 10px 20px;
+}
+
+.header_logo{
+  font-size: 36px;
+  float: left;
+}
+.rogin{
+  background-color: #FFFFFF;
+  height:40px;
+  width: 80px;
+  padding : 10px 20px;
+  font-size: 36px;
+  float: right;
+}
+
+li{
+  list-style: none;
+  float: left;
+  padding:4px 15px 4px 15px;
+}
+
+.header_list{
+  float: left;
+}
